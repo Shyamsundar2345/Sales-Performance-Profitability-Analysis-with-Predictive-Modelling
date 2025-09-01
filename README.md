@@ -70,5 +70,5 @@ Based on the analysis, several key insights were derived:
 ## 🚀 How to Use
 
 1.  Clone or download this repository.
-2.  Open the `Sales Performance & Profitability Analysis.pbix` file using **Power BI Desktop**.
+2.  Open the `Sales Performance & Profitability Analysis with Predictive Modelling.pbix` file using **Power BI Desktop**.
 3.  Interact with the slicers and visuals to explore the data.
