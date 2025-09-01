@@ -19,7 +19,7 @@ This dashboard provides a high-level overview of the core business performance.
     * Monthly sales trends.
     * Geographical sales distribution by **Country**.
 
-![Sales & Profitability Analysis](http://googleusercontent.com/file_content/0)
+
 
 ### 2. Customer & Regional Analysis
 Focuses on customer segmentation and regional sales performance to identify key markets.
@@ -29,7 +29,7 @@ Focuses on customer segmentation and regional sales performance to identify key 
     * Detailed view of sales by **State**.
     * Identification of the **Top 5 Customers by Sales**.
 
-![Customer & Regional Analysis](http://googleusercontent.com/file_content/1)
+
 
 ### 3. Product Detail Analysis
 Offers a granular look at product performance and shipping logistics.
@@ -38,14 +38,14 @@ Offers a granular look at product performance and shipping logistics.
     * Sales distribution by **Ship Mode**.
     * Lists of the **Top 10 Products by Sales** and **Top 10 Products by Profit**.
 
-![Product Detail Analysis](http://googleusercontent.com/file_content/2)
+
 
 ### 4. Sales Forecasting (Predictive Modelling)
 This dashboard utilizes a predictive model to forecast future sales trends.
 * **Key Metric:** Forecast Accuracy (MAPE) of **85.34%**.
 * **Visualization:** A time-series chart comparing **Actual Sales vs. Forecasted Sales**, allowing for strategic planning and inventory management.
 
-![Sales Forecasting](http://googleusercontent.com/file_content/3)
+
 
 ---
 
@@ -58,7 +58,7 @@ Based on the analysis, several key insights were derived:
 * **Forecasting:** The predictive model demonstrates a high accuracy rate, providing a reliable forecast for future sales.
 * **Customer & Product Identification:** The analysis successfully identified the top-performing customers and products, enabling targeted marketing and inventory strategies.
 
-![Key Insights](http://googleusercontent.com/file_content/4)
+
 
 ---
 
