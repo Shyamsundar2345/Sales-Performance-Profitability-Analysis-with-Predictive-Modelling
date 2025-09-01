@@ -13,7 +13,7 @@ This report is divided into several analytical dashboards:
 
 ### 1. Sales & Profitability Analysis
 This dashboard provides a high-level overview of the core business performance.
-* **Key Metrics:** Total Sales, Total Profit, Profit Margin (%), Total Quantity, and Average Delivery Time.
+* **Key Metrics:** Total Sales, Total Profit, Total Quantity, and Total Returns.
 * **Visualizations:**
     * Sales performance by product **Category** and **Sub-Category**.
     * Monthly sales trends.
@@ -26,8 +26,8 @@ Focuses on customer segmentation and regional sales performance to identify key 
 * **Key Metric:** Total number of customers.
 * **Visualizations:**
     * Breakdown of sales by customer **Segment** and **Region**.
-    * Detailed view of sales by **State**.
-    * Identification of the **Top 5 Customers by Sales**.
+    * Detailed view of sales by **Region**.
+    * Identification of the **Top 10 Customers by Sales**.
 
 
 
